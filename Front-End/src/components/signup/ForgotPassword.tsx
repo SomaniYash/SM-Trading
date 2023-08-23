@@ -1,6 +1,6 @@
-// @author Dharmay Dineshchandra Sureja
+// @author yash Somani
 // Banner id (B00904061)
-// email : dh276903@dal.ca
+// email : isa@dal.ca
 // This componenet is responsible to reset user's password
 import * as React from "react";
 import Avatar from "@mui/material/Avatar";

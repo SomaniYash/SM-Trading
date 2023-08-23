@@ -1,6 +1,6 @@
-// @author Dharmay Dineshchandra Sureja
+// @author yash somani
 // Banner id (B00904061)
-// email : dh276903@dal.ca
+// email : isa@dal.ca
 // This componenet is responsible for showing comments added by users to a blog in blog details page
 import Typography from "@mui/material/Typography";
 import Card from "@mui/material/Card";

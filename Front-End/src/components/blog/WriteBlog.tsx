@@ -1,6 +1,6 @@
-// @author Dharmay Dineshchandra Sureja
+// @author yash somani
 // Banner id (B00904061)
-// email : dh276903@dal.ca
+// email : isa@dal.ca
 // This componenet is responsoible to show form to submit and publish blogs
 import Container from "@mui/material/Container";
 import Card from "@mui/material/Card";

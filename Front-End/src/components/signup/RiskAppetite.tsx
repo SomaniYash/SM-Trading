@@ -1,6 +1,6 @@
-// @author Dharmay Dineshchandra Sureja
+// @author Yash Somani
 // Banner id (B00904061)
-// email : dh276903@dal.ca
+// email : isa@dal.ca
 // this component is responsible to ask riskappetite questions.
 import * as React from "react";
 import Card from "@mui/material/Card";

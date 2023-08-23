@@ -1,6 +1,6 @@
-// @author Dharmay Dineshchandra Sureja
+// @author yash somani
 // Banner id (B00904061)
-// email : dh276903@dal.ca
+// email : isa@dal.ca
 // This component is responsible to edit blog and populate form to make changes to existing blog
 import Container from "@mui/material/Container";
 import Card from "@mui/material/Card";

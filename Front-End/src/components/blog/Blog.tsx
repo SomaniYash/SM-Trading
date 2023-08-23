@@ -1,6 +1,6 @@
-// @author Dharmay Dineshchandra Sureja
+// @author yash somani
 // Banner id (B00904061)
-// email : dh276903@dal.ca
+// email : isa@dal.ca
 // This component is responsible to show blog dashboard on blogs page
 import * as React from "react";
 import BlogCard from "./BlogCard";
